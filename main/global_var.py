@@ -1,0 +1,2 @@
+global labelX
+global labelY
